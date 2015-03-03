@@ -1,0 +1,22 @@
+{
+  "name": "angular-eha.image",
+  "description": "An Angular.js image directive",
+  "version": "0.0.0",
+  "authors": [
+    "oss@ehealthafrica.org"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": ["image"," directive"," angularjs"],
+  "main": "dist/angular-eha.image.directive.templates.js",
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
