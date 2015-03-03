@@ -60,7 +60,7 @@
         src: '@src',
         alt: '@alt'
       },
-      template: 'templates/image.directive.tpl.html',
+      templateUrl: 'templates/image.directive.tpl.html',
       link: function(scope) {
         if (scope.image) {
           if (scope.image.data) {
