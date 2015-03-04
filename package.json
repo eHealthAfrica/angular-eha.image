@@ -1,6 +1,6 @@
 {
   "name": "angular-eha.image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Angular.js image directive",
   "main": "dist/angular-eha.image.directive.templates.js",
   "scripts": {
