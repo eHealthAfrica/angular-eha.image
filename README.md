@@ -1,6 +1,6 @@
 # angular-eha.image
 
-[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.image.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.image)
+[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.image.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.image) ![Dependecy Status](https://david-dm.org/eHealthAfrica/angular-eha.image.svg) ![Dev Dependecy Status](https://david-dm.org/eHealthAfrica/angular-eha.image/dev-status.svg)
 
 ## Usage
 
