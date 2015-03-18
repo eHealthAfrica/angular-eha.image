@@ -67,7 +67,7 @@
           // We've got data
             scope.src = encodeURI('data:' +
                                   scope.image.mimeType + ';' +
-                                  'Base64,' +
+                                  'base64,' +
                                   scope.image.data);
           }
 
