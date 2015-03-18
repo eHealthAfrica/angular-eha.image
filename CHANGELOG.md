@@ -4,6 +4,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased] - unreleased
 
+## v1.0.2 - 18/03/2015
+
+### Fixed
+- 'base64' instead of 'Base64'
+
 ## v1.0.1 - 03/03/2015
 
 ### Fixed
@@ -11,5 +16,5 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## v1.0.0 - 03/03/2015
 
-### Added
+### Added
 - Project boilerplate
