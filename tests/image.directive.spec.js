@@ -32,7 +32,7 @@ describe('Image directive', function() {
         scope.$digest();
         var el = element.find('img')[0];
         expect(el.src).to.equal(
-          encodeURI('data:image/jpeg;Base64,!!!PICTURE DATA!!!')
+          encodeURI('data:image/jpeg;base64,!!!PICTURE DATA!!!')
         );
         expect(el.alt).to.equal(scope.image.title);
       });
@@ -48,7 +48,7 @@ describe('Image directive', function() {
         scope.$digest();
         var el = element.find('img')[0];
         expect(el.src).to.equal(
-          encodeURI('data:image/png;Base64,!!!PICTURE DATA!!!')
+          encodeURI('data:image/png;base64,!!!PICTURE DATA!!!')
         );
       });
     });
@@ -64,7 +64,7 @@ describe('Image directive', function() {
         scope.$digest();
         var el = element.find('img')[0];
         expect(el.src).to.equal(
-          encodeURI('unsafe:data:text/png;Base64,!!!PICTURE DATA!!!')
+          encodeURI('unsafe:data:text/png;base64,!!!PICTURE DATA!!!')
         );
       });
     });
