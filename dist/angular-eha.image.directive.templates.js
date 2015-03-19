@@ -94,7 +94,7 @@ angular.module("templates/image.directive.tpl.html", []).run(["$templateCache", 
   $templateCache.put("templates/image.directive.tpl.html",
     "<div class=\"component image\">\n" +
     "  <img\n" +
-    "    src=\"{{src}}\"\n" +
+    "    ng-src=\"{{src}}\"\n" +
     "    alt=\"{{alt}}\"\n" +
     "    class=\"img-rounded img-responsive\" />\n" +
     "</div>\n" +

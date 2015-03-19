@@ -4,6 +4,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased] - unreleased
 
+## v1.0.3 - 19/03/2015
+
+### Fixed
+- Use ng-src instead of src to not throw a 404 request when first rendered
+
 ## v1.0.2 - 18/03/2015
 
 ### Fixed
